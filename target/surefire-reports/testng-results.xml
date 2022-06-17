@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6380" started-at="2022-06-17T09:51:53Z" finished-at="2022-06-17T09:51:59Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6380" started-at="2022-06-17T09:51:53Z" finished-at="2022-06-17T09:51:59Z">
+      <class name="apiChaining.Runnerclass">
+        <test-method status="PASS" signature="RunnerMethod()[pri:0, instance:apiChaining.Runnerclass@4206a205]" name="RunnerMethod" duration-ms="6347" started-at="2022-06-17T09:51:53Z" finished-at="2022-06-17T09:51:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RunnerMethod -->
+      </class> <!-- apiChaining.Runnerclass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
